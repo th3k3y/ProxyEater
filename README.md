@@ -4,5 +4,6 @@ Simple proxy scraper made in Python.
 I'll add more sources in the future.
 Feel free to clone.
 
-![proxyeater](https://user-images.githubusercontent.com/49789253/112890036-aaed1f80-90d6-11eb-9fc0-a91773ead665.gif)
+![proxyeater](https://user-images.githubusercontent.com/49789253/112890757-8ba2c200-90d7-11eb-9dd8-70b1f42cb643.gif)
+
 
